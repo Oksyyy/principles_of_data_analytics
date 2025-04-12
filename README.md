@@ -12,6 +12,14 @@ This repository contains a Jupyter Notebook created as part of the Principles of
 
 ## Required Packages
 
-- sklearn.dataset
-- numpy
-- matplotlib.pyplot
+All necessary packages are imported and explained within the notebook. Here's a quick overview:
+
+- [sklearn.dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html): used to load the Iris dataset from Scikit-learn’s built-in datasets 
+- [numpy](https://numpy.org/doc/stable/): used for numerical operations and creating arrays for data visualisations
+- [matplotlib.pyplot](https://matplotlib.org/): used for creating plots and other data visualisations
+
+## Project Structure
+
+* README.md provides project overview and setup instructions
+* iris_analysis.ipynb - Jupyter notebook with analysis
+* requirements.txt - lists requirements 
