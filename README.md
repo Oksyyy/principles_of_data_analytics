@@ -17,6 +17,9 @@ All necessary packages are imported and explained within the notebook. Here's a 
 - [sklearn.dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html): used to load the Iris dataset from Scikit-learn’s built-in datasets 
 - [numpy](https://numpy.org/doc/stable/): used for numerical operations and creating arrays for data visualisations
 - [matplotlib.pyplot](https://matplotlib.org/): used for creating plots and other data visualisations
+- [seaborn](https://seaborn.pydata.org/index.html): used for generaiting a pairplot
+- [scipy](https://docs.scipy.org/doc/scipy/index.html): used for calculation of Coefficient Of Determination
+- [pandas](https://pandas.pydata.org/docs/index.html): used for converting numpy array into a Pandas DataFrame
 
 ## Project Structure
 
