@@ -26,3 +26,6 @@ All necessary packages are imported and explained within the notebook. Here's a 
 * README.md - provides project overview and setup instructions.
 * iris_analysis.ipynb - Jupyter notebook containing the analysis tasks and commentary.
 * requirements.txt - lists requirements. 
+
+## Dataset Source
+>Fisher, R. (1936). Iris [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.
